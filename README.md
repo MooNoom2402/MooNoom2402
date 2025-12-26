@@ -56,10 +56,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
 </p>
 
-<a href="https://github.com/MooNoom2402">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooNoom2402&layout=compact&theme=dark&title_color=0891b2&text_color=ffffff&bg_color=1c1917&border_color=0891b2&border_radius=10&langs_count=8" alt="Top Languages" />
-</a>
-
 ## Contact
 
 -  **อีเมล:** [rapeepong.ja03@gmail.com](mailto:rapeepong.ja03@gmail.com)
